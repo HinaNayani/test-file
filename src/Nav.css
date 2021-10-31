@@ -1,0 +1,32 @@
+.Container{
+	margin: 0 auto;
+	max-width: 1200px;
+	padding: 0 30px;
+    display: flex;
+	align-items: center;
+}
+
+.Why-nava
+{
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    background-color: #fff;
+    text-align: center;
+    padding: 60px 40px;
+    margin-left: -80px;
+}
+
+.Why-nava h2
+{
+	color: #343435;
+	font-size-adjust: 40px;
+	text-decoration: underline 5px solid #e7434e;
+}
+.Why-nava p
+{
+	font-size: 16px;
+	color: #343435;
+	font-weight: 400;
+	line-height: 30px;
+	margin-top: 20px;
+}
