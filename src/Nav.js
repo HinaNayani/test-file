@@ -4,7 +4,7 @@ function Nav() {
     return (
         <div className="Container">
 				<div>
-					<img src="./public/WhyNavapng.png" alt="whynava" title="whynava"></img>
+					<img src="./WhyNavapng.png" alt="whynava" title="whynava"></img>
 				</div>
 
 				<div className="Why-nava">
